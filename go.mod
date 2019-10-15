@@ -10,3 +10,5 @@ require (
 	github.com/tendermint/tm-db v0.2.0
 	golang.org/x/crypto v0.0.0-20190313024323-a1f597ede03a
 )
+
+replace github.com/tendermint/go-amino v0.14.1 => ../go-amino-v0150

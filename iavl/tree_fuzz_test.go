@@ -6,7 +6,7 @@ import (
 	"math/rand"
 	"testing"
 
-	cmn "github.com/tendermint/iavl/common"
+	cmn "github.com/tendermint/iavl/iavl/common"
 	db "github.com/tendermint/tm-db"
 )
 
